@@ -8,13 +8,13 @@
 -  I’m currently doing my Bs in **Information Technology from GCUF.**
 -  Providing Services as a **Frontend Developer & UI Designer.**
 -  Practicing DSA and solving **Leetcode.**
--  Actively participating in **Hackathon & Coding Competitions.**
+-  Actively participating in **Hackathons & Coding Competitions.**
 -  Typing speed is 40wpm.
--  Shaper at **Global shapers community.**
--  Member of  **World Economic Forum**
--  You can check my projects on my **Live Potfolio.**
--  Connect with me through**Linkedin | Facebook | Instagram | Github.**
--  Fun fact😜 **Silent dreamer, secretly plotting world domination… one quiet lesson at a time.**
+-  Shaper at **Global shapers community Faisalabad Hub.**
+-  Member of  **World Economic Forum.**
+-  Want to see my work **Check out my Portfolio.**
+-  Connect with me through **Linkedin | Facebook | Instagram | Discord | Github.**
+-  Fun fact **Professional at screening calls and Olympic-level slow at replying to messages. It's not personal, I just like to be in peace!😄**
   
 
 <h3 align="left">Connect with me</h3>
