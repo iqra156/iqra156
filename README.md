@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqra156&label=Profile%20views&color=0e75b6&style=flat" alt="iqra156" /> </p>
 
--  I’m currently doing my Bs in **IT from GCUF.**
+-  I’m currently doing my Bs in **IT from GCUF FSD.**
 -  Providing Services as a **Frontend Developer & UI Designer.**
 -  Practicing DSA and solving **Leetcode.**
 -  Actively participating in **Hackathon & Coding Competitions.**
