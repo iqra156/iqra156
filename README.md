@@ -16,13 +16,23 @@
 -  Connect with me through **Linkedin | Facebook | Instagram | Discord | Github.**
 -  Fun fact **Professional at screening calls and Olympic-level slow at replying to messages. It's not personal, I just like to be in peace!😄**
   
+### 🌐 Connect with Me  
 
-<h3 align="left">Connect with me</h3>
 <p align="center">
-<a href="https://linkedin.com/in/iqra-manzoor-382a8b1a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iqra-manzoor-382a8b1a8" height="30" width="40" /></a>
-<a href="https://instagram.com/iqramanzoor.99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iqramanzoor.99" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/iqramanzoor56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iqramanzoor56" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/iqra-manzoor-382a8b1a8/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="[https://leetcode.com/u/Asiya_Sohail/](https://leetcode.com/u/iqramanzoor56/)" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
 </p>
+
+---
+
+<h2 align="left">I code with</h2>
+
+###
 
 
 
@@ -43,3 +53,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iqra156&show_icons=true&locale=en&layout=compact" alt="iqra156" /></p><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iqra156&show_icons=true&locale=en" alt="iqra156" /></p><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iqra156&" alt="iqra156" /></p>
+
+
