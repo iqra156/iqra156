@@ -6,13 +6,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqra156&label=Profile%20views&color=0e75b6&style=flat" alt="iqra156" /> </p>
 
 -  I’m currently doing my Bs in **Information Technology from GCUF.**
+-  Passionate about **Cybersecurity and Artificial Intelligence/Machine Learning (AI/ML)**
 -  Providing Services as a **Frontend Developer & UI Designer.**
 -  Practicing DSA and solving **Leetcode.**
 -  Actively participating in **Hackathons & Coding Competitions.**
--  Typing speed is 40wpm.
 -  Shaper at **Global shapers community Faisalabad Hub.**
 -  Member of  **World Economic Forum.**
--  Want to see my work **Check out my Portfolio.**
 -  Connect with me through **Linkedin | Facebook | Instagram | Discord | Github.**
 -  Fun fact **Professional at screening calls and Olympic-level slow at replying to messages. It's not personal, I just like to be in peace!😄**
   
