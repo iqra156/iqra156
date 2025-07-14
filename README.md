@@ -1,86 +1,95 @@
-![logo](https://github.com/iqra156/iqra6915/blob/main/Tech%20photo.png)
+<!-- Header -->
+<p align="center">
+  <img src="https://github.com/iqra156/iqra6915/blob/main/Tech%20photo.png" width="70%" alt="Iqra's Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm IQRA MANZOOR</h1>
-<h3 align="center">Learning by building — a frontend developer from Pakistan passionate about clean design and real-world functionality.</h3>
-<img align="right" alt="code" width="400" src="https://github.com/user-attachments/assets/68afafbe-edcb-4432-bc55-dd62afb85859" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iqra156&label=Profile%20views&color=0e75b6&style=flat" alt="iqra156" /> </p>
-
--  I’m currently doing my Bs in **Information Technology from GCUF.**
--  Passionate about **building scalable products and solving real-world problems — actively preparing for FAANG opportunities.**
--   Currently work as a **Frontend Developer.**
--  Practicing DSA and solving **Leetcode.**
--  Actively participating in **Hackathons & Coding Competitions.**
--  Shaper at **Global shapers community Faisalabad Hub.**
--  Member of  **World Economic Forum.**
--  Connect with me through **Linkedin | Leetcode | Github | Discord | lablab.ai.**
--  Fun fact **Professional at screening calls and Olympic-level slow at replying to messages. It's not personal, I just like to be in peace!😄**
-
-
-  ## Skill Set:
-
-<table><tr><td valign="top" width="25%">
-
-### Frontend  
-<a href="https://github.com/iqra156">
-<div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js&perline=4" /> 
-</div>
-</a>
- </td><td valign="top" width="25%">
-        
-### Languages
-<a href="https://github.com/iqra156">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=c,js,cpp,python,&perline=4" /> 
-</div>
-</a>
-
-</td><td valign="top" width="25%">
-  
-### Others
-<a href="https://github.com/iqra156">
-<div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel,discord,vscodeqt&perline=4" /> 
-</div>
-</a>
-</td>
-</tr></table>
-
-
-## Connect with me:
-<div align="center">
-    <a href="https://www.linkedin.com/in/iqra-manzoor-382a8b1a8/" target="_blank"><img src="https://img.shields.io/badge/-Iqra%20Manzoor-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a href="https://leetcode.com/u/iqramanzoor56/" target="_blank"><img src="https://img.shields.io/badge/-Iqra%20Manzoor-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
-    <a href="https://lablab.ai/u/@iqra56" target="_blank"><img src="https://img.shields.io/badge/-LabLab Profile-3B5998?style=flat&logo=LabLab&logoColor=white"/></a>
-        <a href="https://medium.com/@numlstudent4" target="_blank"><img src="https://img.shields.io/badge/-Medium Profile-3B5948?style=flat&logo=Medium&logoColor=white"/></a>
-</div>
-
-## GitHub Stats:
+<h3 align="center">🌸 Frontend Developer | Problem Solver | Hackathon Enthusiast from Pakistan 🇵🇰</h3>
 
 <p align="center">
-    <a href="https://github.com/iqra156">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iqra156&theme=monokai" />
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iqra156&theme=monokai" />
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iqra156&theme=monokai" />
-    </a>
+  <img src="https://komarev.com/ghpvc/?username=iqra156&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<!-- 🗂️ Contribution Activity Graph -->
+---
+
+### ✨ About Me
+- 🎓 Currently pursuing **BS Information Technology @ GCUF**
+- 💡 Passionate about **building real-world projects** and **clean UI/UX**
+- 💻 Practicing **DSA** and solving **LeetCode** problems
+- 🛠️ Working as a **Frontend Developer**
+- ⚡ Exploring opportunities in **Hackathons & FAANG**
+- 🌍 Member of **Global Shapers Community** (Faisalabad Hub)
+- 🧠 Representing **World Economic Forum**
+- 🤝 Connect via **LinkedIn, GitHub, LeetCode, Medium, LabLab**
+- 🎯 Fun fact: I’m **a pro at ignoring calls**, but **slow replies** mean I'm in **deep work mode!** 😄
+
+---
+
+## 🛠️ Tech Stack
+
+<table width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <strong>Frontend</strong><br/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind&perline=4" />
+    </td>
+    <td align="center" width="25%">
+      <strong>Languages</strong><br/>
+      <img src="https://skillicons.dev/icons?i=python,cpp,c,js&perline=4" />
+    </td>
+    <td align="center" width="25%">
+      <strong>Tools</strong><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel&perline=4" />
+    </td>
+    <td align="center" width="25%">
+      <strong>Design</strong><br/>
+      <img src="https://skillicons.dev/icons?i=figma,photoshop,canva&perline=3" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌐 Connect With Me
 <p align="center">
-  <a href="https://github.com/iqra156">
-    <img height="250" src="https://github-readme-activity-graph.vercel.app/graph?username=iqra156&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&area=true&border_radius=20&title_color=FDFD96" />
-  </a> 
+  <a href="https://www.linkedin.com/in/iqra-manzoor-382a8b1a8/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/iqramanzoor56/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=LeetCode&logoColor=white" />
+  </a>
+  <a href="https://lablab.ai/u/@iqra56" target="_blank">
+    <img src="https://img.shields.io/badge/LabLab.ai-%230e76a8.svg?&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AA..." />
+  </a>
+  <a href="https://medium.com/@numlstudent4" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
 </p>
 
-<!-- 🔥 GitHub Streak -->
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://github.com/iqra156">
-    <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=iqra156&theme=onedark&hide_border=true&layout=demo" />
-  </a>  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iqra156&theme=monokai" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iqra156&theme=monokai" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iqra156&theme=monokai" />
 </p>
 
-<br>
+---
 
-<h2 align="center">💻 Check Out My Repos ⬇️</h2>
+## 🔥 Contribution Streak
 
-#
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iqra6915&theme=onedark" alt="GitHub Streak" /></a>
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iqra156&bg_color=1e1e1e&color=FFA07A&line=87CEEB&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+---
+
+<h2 align="center">📁 Explore My Projects ↓</h2>
