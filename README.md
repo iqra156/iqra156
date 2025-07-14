@@ -13,15 +13,19 @@
 ---
 
 ### About Me
-- 🎓 Currently pursuing **BS Information Technology @ GCUF**
-- 💡 Passionate about **building real-world projects** and **clean UI/UX**
-- 💻 Practicing **DSA** and solving **LeetCode** problems
-- 🛠️ Working as a **Frontend Developer**
-- ⚡ Exploring opportunities in **Hackathons & FAANG**
-- 🌍 Member of **Global Shapers Community** (Faisalabad Hub)
-- 🧠 Representing **World Economic Forum**
-- 🤝 Connect via **LinkedIn, GitHub, LeetCode, Medium, LabLab**
-- 🎯 Fun fact: I’m **a pro at ignoring calls**, but **slow replies** mean I'm in **deep work mode!** 😄
+- Currently pursuing **BS Information Technology @ GCUF 🎓**
+- Ranked **#1 in my class**🏅 with a proud **CGPA of 3.84**
+- Practicing **DSA** and solving **LeetCode** problems daily
+- Working as a **Frontend Developer** passionate about clean UI/UX
+- Awarded the **Prime Minister’s Laptop (2023)** under the **Merit-Based Scheme**
+- Selected as a **Honhaar Scholarship Awardee (2025)🏆**
+- Passionate about building **real-world projects** with purpose and scalability
+- Exploring opportunities in **Hackathons, Tech Communities, and FAANG**
+- Member of **Global Shapers Community – Faisalabad Hub**
+- Representing youth at the **World Economic Forum**
+- Connect with me on **LinkedIn, GitHub, LeetCode, Medium, LabLab**
+- Fun fact: I’m a **pro at ignoring calls**, but a **master at deep work mode** — slow replies mean I’m focused! 😄
+
 
 ---
 
