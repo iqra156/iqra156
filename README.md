@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm IQRA MANZOOR</h1>
-<h3 align="center">🌸 Frontend Developer | Problem Solver | Hackathon Enthusiast from Pakistan 🇵🇰</h3>
+<h3 align="center">Frontend Developer | Problem Solver | Hackathon Enthusiast from Pakistan 🇵🇰</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iqra156&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -12,7 +12,7 @@
 
 ---
 
-### ✨ About Me
+### About Me
 - 🎓 Currently pursuing **BS Information Technology @ GCUF**
 - 💡 Passionate about **building real-world projects** and **clean UI/UX**
 - 💻 Practicing **DSA** and solving **LeetCode** problems
@@ -25,7 +25,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <table width="100%">
   <tr>
@@ -50,7 +50,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/iqra-manzoor-382a8b1a8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -68,23 +68,24 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iqra156&theme=monokai" />
-  <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iqra156&theme=monokai" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iqra156&theme=monokai" />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Contributions
+<p align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iqra6915&theme=onedark" alt="GitHub Streak" /></a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iqra156&theme=monokai" />
+</p>
+
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iqra156&bg_color=1e1e1e&color=FFA07A&line=87CEEB&point=FFFFFF&area=true&hide_border=true" />
