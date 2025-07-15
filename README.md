@@ -45,10 +45,14 @@
       <strong>Tools</strong><br/>
       <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel&perline=4" />
     </td>
-    <td align="center" width="25%">
-      <strong>Design</strong><br/>
-      <img src="https://skillicons.dev/icons?i=figma,photoshop,canva&perline=3" />
-    </td>
+   <td align="center" width="25%">
+  <strong>Design</strong><br/>
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" />
+  <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" width="40" />
+</td>
+
+
+
   </tr>
 </table>
 
@@ -94,7 +98,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iqra156&bg_color=1e1e1e&color=FFA07A&line=87CEEB&point=FFFFFF&area=true&hide_border=true" />
 </p>
-
 ---
 
 <h2 align="center">📁 Explore My Projects ↓</h2>
