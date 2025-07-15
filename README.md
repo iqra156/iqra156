@@ -98,6 +98,5 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iqra156&bg_color=1e1e1e&color=FFA07A&line=87CEEB&point=FFFFFF&area=true&hide_border=true" />
 </p>
----
 
 <h2 align="center">📁 Explore My Projects ↓</h2>
